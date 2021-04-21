@@ -1,0 +1,15 @@
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\bin\Debug\netcoreapp3.1\LambdaUnitTestExample.deps.json
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\bin\Debug\netcoreapp3.1\LambdaUnitTestExample.runtimeconfig.json
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\bin\Debug\netcoreapp3.1\LambdaUnitTestExample.runtimeconfig.dev.json
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\bin\Debug\netcoreapp3.1\LambdaUnitTestExample.dll
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\bin\Debug\netcoreapp3.1\LambdaUnitTestExample.pdb
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.csprojAssemblyReference.cache
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.AssemblyInfoInputs.cache
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.AssemblyInfo.cs
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.csproj.CopyComplete
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.dll
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.pdb
+C:\Users\Jeffrey\source\repos\LambdaUnitTestExample\obj\Debug\netcoreapp3.1\LambdaUnitTestExample.genruntimeconfig.cache

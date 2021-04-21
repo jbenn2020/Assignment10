@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuNUsDsBD5u3kKEy6YDCC3/ti4eLq+4CjMb9SOE0g+946JmnbKcqcF2l7p8N87fRREdv38DnPfAFvYRphf0jcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeffrey\\source\\repos\\LambdaUnitTestExample\\LambdaUnitTestExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeffrey\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\Jeffrey\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
